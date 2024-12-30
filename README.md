@@ -1,1 +1,1 @@
-Đồ án cá nhân môn Kỹ thuật lập trình lớp 23CTT2 năm học 2023-2024
+A simulation of the 2048 game, developed with the C++ programming language
